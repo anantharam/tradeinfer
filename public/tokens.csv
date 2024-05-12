@@ -1,0 +1,9 @@
+id,name,symbol,price,impliedvol
+1,Apple,AAPL,185,0.1
+2,Google,GOOGL,170,0.2
+3,Amazon,AMZN,192,0.3
+4,Facebook,FB,475,0.4
+5,Netflix,NFLX,610,0.5
+6,Nvidia,NVDA,909,0.6
+7,Ethereum,ETH,3000,0.7
+8,Bitcoin,BTC,69000,0.8

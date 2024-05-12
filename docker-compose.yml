@@ -1,0 +1,13 @@
+version: "3.8"
+
+services:
+
+  tradeinfer-ui:
+    build:
+      context: ./
+      dockerfile: ./Dockerfile
+    environment:
+      - APP_ENV=local
+    ports:
+      - 80:80
+    restart: on-failure
